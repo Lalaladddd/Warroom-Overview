@@ -46,4 +46,7 @@ The goal is to deliver an immersive **tabletop wargame experience in VR** — bl
 - **VR Toolkit**: Unity XR Interaction Toolkit  
 - **Platform**: Meta Quest 3 (PCVR/Standalone)  
 - **AI**: Custom Unity C# scripts (decision-making, pathfinding, combat simulation)  
-- **Networking (planned)**: API communication between AI agents  
+- **Networking (planned)**: API communication between AI agents
+
+
+“Full source code in private repository (available on request).”
